@@ -37,7 +37,8 @@ hr {
 
 .top-container {
   position: relative;
-  background-color: #E4F9F5;
+  /*background-color: #E4F9F5;*/
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.bi93hjIyr67s3qQHQZEgPQHaCv&pid=Api&P=0&w=412&h=153");
   padding-top: 20px;
 /*  margin: 100px 0;*/
 }
